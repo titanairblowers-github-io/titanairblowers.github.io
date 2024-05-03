@@ -201,7 +201,7 @@ header{
 
 
 .page_hero{
-    min-height: 515px;
+    min-height: calc(100vh - 189px);
     .page_title{
         font-size: 64px; 
         line-height: normal;
