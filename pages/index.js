@@ -33,14 +33,6 @@ export default function Home() {
                   <button className="btn btn_lg">See Our Products</button>
                 </Link>
               </div>
-              <div className="lg:w-6/12 flex justify-center md:justify-end items-center mt-8 lg:mt-0">
-                <Image
-                  src="/hero_product.png"
-                  alt=""
-                  width={571}
-                  height={452}
-                />
-              </div>
             </div>
           </div>
         </div>

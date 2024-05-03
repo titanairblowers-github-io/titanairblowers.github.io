@@ -170,7 +170,7 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    color: $color_white;
+    min-height: calc(100vh - 189px);
     .header_typo{
         text-transform: uppercase;
         .header_typo1{ 
