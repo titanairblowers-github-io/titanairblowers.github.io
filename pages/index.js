@@ -5,7 +5,6 @@ import Footer from "/components/footer";
 import Image from "next/image";
 import Advantages from "../components/advantages";
 import Certificates from "../components/certificates";
-import Carousel from "react-responsive-carousel";
 export default function Home() {
   return (
     <div>
