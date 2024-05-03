@@ -166,7 +166,7 @@ header{
 }
 
 .home_hero{
-    background-image: url('/hero/hero_home.png');
+    background-image: url('/hero/hero_home.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -210,9 +210,12 @@ header{
 
         @media screen and (max-width: 640px) { font-size: 40px; text-align: center;}
     }
-    &.page_about{ background-image: url('/hero/about.png');}
-    &.page_product{ background-image: url('/hero/contact.png');}
-    &.page_contact{ background-image: url('/hero/contact.png');}
+
+    &.page_about{ background-image: url('/hero/home page 2.png');}
+    &.page_product{ background-image: url('/hero/home page 3.png');}
+    &.page_contact{ background-image: url('/hero/home page 4.png');}
+    &.page_menu{ background-image: url('/hero/menu.png');}
+
 
     @media screen and (max-width: 640px) { min-height: 200px; }
 }

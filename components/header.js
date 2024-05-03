@@ -9,8 +9,8 @@ export default function Header() {
     <header className='w-full'>
       <div className='container mx-auto px-6'>
         <div className='flex lg:flex-row justify-between items-center'>
-          <div className='lg:w-4/12 main_logo z-10'>
-            <Link href="/"><Image src="/logo1.svg" alt="Vercel Logo" width={373} height={115} /></Link>
+          <div className='lg:w-4/12 z-10'>
+            <Image src="/logo.png" alt="" width={250} height={250} />
           </div>
           <div className='lg:w-8/12 text-right hidden lg:block'>
             <ul>

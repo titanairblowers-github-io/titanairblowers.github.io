@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Farmer Pro Pipes | Products</title>
-        <meta name="description" content="Farmer Pro Pipes | Products" />
+        <title>Titan Air Blowers | Products</title>
+        <meta name="description" content="Titan Air Blowers | Products" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -25,35 +25,25 @@ export default function Home() {
             <div className='flex flex-col lg:flex-row gap-8 md:gap-12 lg:gap-16 justify-between'>
               <div className='w-full lg:w-8/12'>
                 <div className='product_flex_copy'>
-                  <h1>HDPE Pipe & Fittings</h1>
-                  <p>Manufactured from high density poly ethylene polymers our product are manufactures as per Specification. IS : 4984 of BIS.</p>
+                <h1>Product</h1>
+                <p>Welcome to Titan Air Blowers' product page showcasing our premier offerings. Crafted with precision and care, our products stand as testament to our commitment to excellence in design and manufacturing.
+                </p>
+                <br></br>
+                <p>One of our core strengths lies in our unwavering dedication to customer service. With Titan Air Blowers, you're not just purchasing a product; you're forging a lasting partnership built on trust and reliability. Our strong client relationships are a testament to this commitment.</p>
+                <br></br>
 
-                  <h2>Product Range</h2>
+                  <h1>1.Twin Lobe Roots Blower</h1>
+                  <p>At Titan Air Blowers, we understand the importance of quality materials and precise engineering. That's why our Twin Lobe Roots Blower features high-quality casting casing and covers, ensuring durability and reliability in every application. Utilizing advanced machining processes, we guarantee precise dimensions, providing optimal performance in varied conditions.</p>
+
+                  <h2>Key features of our Twin Lobe Roots Blower include:</h2>
                   <ul>
-                    <li>Size: 20 mm to 315 mm</li>
-                    <li>Pressure Rating : Pn 2.5 kg/cm2 to 10.0 kg/c,2</li>
-                    <li>Grades : PE - 63, 80 & 100</li>
-                    <li>Length : Available in pipe and coil form in different sizes</li>
-                  </ul>
-                  <h2>Benifits</h2>
-                  <ul>
-                    <li>Flexibility and perfect weld ability</li>
-                    <li>Abrasion and wear resistant</li>
-                    <li>Chemical resistant</li>
-                    <li>Low co-efficient of friction</li>
-                    <li>Tough, Strong and Low Weight</li>
-                    <li>Weather Resistant</li>
-                  </ul>
-                  <h2>Applications</h2>
-                  <ul>
-                    <li>Used in Water supply distribution System</li>
-                    <li>Replacement of G.. Pipes in borewell application of Submersible Pumps</li>
-                    <li>For suction and delivery lines of jet pumps and centrifugal pumps</li>
-                    <li>Used for disposal of corrosive effuents chemicals, treated/untreated waste, acids and alkalis for conveying edible oils, fruit pulp, juices, milk and other products</li>
-                    <li>Can be used for carrying Soil, Waste etc to appropriate drains or sewers through an underground network of pipes</li>
-                    <li>Can be used as ducts for Air conditioning and Ventilation</li>
-                    <li>Used for industrial waste treatment plants and water treatment plants</li>
-                    <li>For disposal of ands slurry in dredging operation and for transporting slurries of Iron Ore, Fly Ash etc</li>
+                    <li>Longevity: Our products are built to last, requiring minimal servicing over their lifespan.</li>
+                    <li>Robust Design: Featuring a superior casting body and precisely machined parts, our blower is engineered for durability and efficiency.</li>
+                    <li>Low Noise Level: Enjoy quiet operation without compromising on performance.</li>
+                    <li>Versatility: Our blower can be seamlessly integrated into both vacuum and pressure systems, offering flexibility in various applications.</li>
+                    <li>Superior Components: Equipped with high-quality bearings and well-lubricated gear pairs, our blower ensures smooth and reliable operation.</li>
+                    <li>Application: The blowers can be used for material handling where oil free air is required. Major applications include cement industry, food processing, thermal power plant, pharmaceutical industry, mining and aquaculture
+                    <p>Experience the Titan Air Blowers difference with our Twin Lobe Roots Blower. Trust in our quality, rely on our service, and elevate your operations with unmatched performance.</p></li>
                   </ul>
                 </div>
               </div>
@@ -70,37 +60,10 @@ export default function Home() {
             <div className='flex flex-col lg:flex-row gap-8 md:gap-12 lg:gap-16 justify-between'>
               <div className='w-full lg:w-8/12'>
                 <div className='product_flex_copy'>
-                  <h1>Sprinkler Pipe</h1>
-                  <p>Worlwide HDPE Sprinkler is found to be the best method to get maximum yield at a low cost. Mahashakti Sprinkler. Pipes are manufactured from High Density poly ethylene. Our Products are manufactured as per Specification IS: 14151 Part Il of BIS.</p>
-
-                  <h2>Product Range</h2>
-                  <ul>
-                    <li>Available in Butt Fusion and Friction Welding, Ranging 63 mm to 110 mm diameter with complete range of fittings</li>
-                    <li>Available in latch clamping 'M' Type and Single 'C' Type Clamping.</li>
-                  </ul>
-                  <h2>Applications</h2>
-                  <ul className='no_dot'>
-                    <li>Used for irrigation and water distribution in farm lands, gardens, horticulture, floriculture, wormiculture.</li>
-                  </ul>
-                  <h2>Benefites</h2>
-                  <ul>
-                    <li>Eco-friendly saves water upto 70%</li>
-                    <li>Helps in cleaning the surface of plants there by helping them in easy photosynthesis</li>
-                    <li>Results in better yield</li>
-                    <li>In winter season, sprinkler system saves the surface of the plants from accumulation of frozen water</li>
-                    <li>In summers, sprinkler system spreads the water in the farmland uniformly and saves the plants from water clogging and scarcicity</li>
-                  </ul>
-                  <h2>Accessories</h2>
-                  <ul>
-                    <li>Coupled bennd</li>
-                    <li>Coupled tee</li>
-                    <li>Pump Connecting nipple</li>
-                    <li>Sprinklklkler Attanhment Foot Batten</li>
-                    <li>End Cap</li>
-                    <li>Riser Pipe</li>
-                    <li>Sprinkler nozzle</li>
-                    <li>Raingun ith tripod stand</li>
-                  </ul>
+                  <h1>2.Cement Feeding System:</h1>
+                  <p>Introducing Titan Air Blowers' Cement Feeding System, engineered to redefine efficiency and reliability in cement conveying. Crafted from high-grade steel, our system ensures unparalleled structural strength, guaranteeing durability for prolonged use. The integration of a hardened screw mechanism and an efficient roots blower facilitates seamless cement transfer, optimizing workflow and minimizing downtime.</p>
+                  <br></br>
+                  <p>Supported by a team of skilled fabricators, every component is meticulously crafted to exacting standards, ensuring precision and quality in every detail. Additionally, our system features a pressurized seal and bearing system, effectively safeguarding sensitive areas from material ingress, thereby reducing maintenance needs and prolonging equipment lifespan. Elevate your material handling capabilities with Titan Air Blowers' Cement Feeding System – the epitome of efficiency, durability, and innovation.</p>
                 </div>
               </div>
               <div className='w-full lg:w-4/12 flex flex-col gap-8 md:gap-12 lg:gap-16 justify-center items-center lg:items-end'>
@@ -110,33 +73,28 @@ export default function Home() {
             </div>
           </div>
         </div>
-
         <div className='w-full mb-12 md:mb-16 lg:mb-20'>
-          <div className='container mx-auto px-6'>
-            <div className='flex gap-5 justify-center items-center mb-7'>
-              <Image src="/title_icon/certificates.svg" alt="" width={43} height={47} />
-              <h1 className='m-0'>Other Products</h1>
+        <div className='container mx-auto px-6'>
+          <div className='flex flex-col lg:flex-row gap-8 md:gap-12 lg:gap-16 justify-between'>
+            <div className='w-full lg:w-8/12'>
+              <div className='product_flex_copy'>
+                <h1>3. Bulker Unloading System</h1>
+                <p>Introducing Titan Air Blowers' Bulker Unloading System, an advanced solution designed to streamline the unloading process with unparalleled efficiency and precision. Utilizing our specialized Twin Lobe Blowers, our system ensures optimal performance for bulk material unloading applications.</p>
+                <br></br>
+                <p>The Twin Lobe Blowers employed in our Bulker Unloading System enable high-volume, low-pressure operation, facilitating the swift unloading of materials from bulkers within a remarkably short timeframe. This innovative design not only expedites the unloading process but also ensures gentle handling of the materials, preserving their integrity throughout.</p>
+                <br></br>
+                <p>At Titan Air Blowers, we understand the critical importance of efficiency and reliability in bulk material handling operations. That's why our Bulker Unloading System is engineered to deliver consistent, dependable performance, meeting the rigorous demands of industrial environments.</p>
+                <br></br>
+                <p>Experience the difference that Titan Air Blowers' Bulker Unloading System can make in optimizing your material handling processes. Trust in our commitment to excellence and innovation to elevate your operations to new levels of efficiency and productivity. Choose Titan Air Blowers for superior performance and reliability in bulk material unloading solutions.</p>
+              </div>
             </div>
-            <div className='flex flex-wrap gap-8 md:gap-12 lg:gap-16 justify-center'>
-              <div className='text-center'>
-                <Image src="/product/page/5.png" alt="" width={240} height={240} />
-                <h3>Garden Pipes</h3>
-              </div>
-              <div className='text-center'>
-                <Image src="/product/page/6.png" alt="" width={240} height={240} />
-                <h3>PP Ropes</h3>
-              </div>
-              <div className='text-center'>
-                <Image src="/product/page/7.png" alt="" width={240} height={240} />
-                <h3>Section Pipes</h3>
-              </div>
-              <div className='text-center'>
-                <Image src="/product/page/8.png" alt="" width={240} height={240} />
-                <h3>LD Kishan Pipes</h3>
-              </div>
+            <div className='w-full lg:w-4/12 flex flex-col gap-8 md:gap-12 lg:gap-16 justify-center items-center lg:items-end'>
+                <Image src="/product/page/3.png" alt="" width={400} height={262.03} className='w-6/12 lg:w-full' />
+              <Image src="/product/page/4.png" alt="" width={400} height={269.09} className='w-6/12 lg:w-full'/>
             </div>
           </div>
         </div>
+      </div>
       </main>
       <Footer />
     </div>

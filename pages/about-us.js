@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Farmer Pro Pipes | About Us</title>
-        <meta name="description" content="Farmer Pro Pipes | About Us" />
+        <title>Titan Air Blowers | About Us</title>
+        <meta name="description" content="Titan Air Blowers | About Us" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -28,9 +28,16 @@ export default function Home() {
               </div>
               <div className='w-full lg:w-6/12'>
                 <h2>About Us</h2>
-                <p>Incepted in the year 2004, Miraj Pipes & Fittings Pvt. Ltd. is counted for offering top class quality Industrial Pipes, Industrial Pipe Fittings and HDPE Sprinklers. The company has attained the heights of success under the proficient headship of the COO Mr. Kailash Chandra Agarwal.</p>
-                <h2 className='mt-10'>Infrastructure</h2>
-                <p>Our state - of - the - art infrastructure is spread over more than 6 lacs Sq. Ft. area and is equipped with latest and technologically advanced machines to deliver small or bulk orders with excellence. We have in-house R&D facility to develop innovative products and Laboratory in order to provide products as per ISI standards. With total of 18 machines for PVC, CPVC, HDPE & Fittings, the company has a production capacity of 55640 MT.</p>
+                <p>Welcome to Titan Air Blowers, where innovation meets reliability in the world of root blower manufacturing. Founded in the vibrant city of Ahmedabad, Gujarat, by two determined friends, Raghuvirsingh Tomar and Rajan Thakkar, our journey began with a shared vision to transform the industrial sector with cutting-edge technology and impeccable craftsmanship.</p>
+                <br></br>
+                <p>Drawing upon our combined expertise and passion for engineering, we embarked on a mission to design and produce top-of-the-line root blowers that set new benchmarks for performance, efficiency, and durability. With a commitment to excellence ingrained in our DNA, we strive to exceed the expectations of our customers while contributing to the advancement of various industries worldwide.</p>
+                <br></br>
+                <p>We understand the critical role that root blowers play in numerous applications, from wastewater treatment and pneumatic conveying to aeration and chemical processing. That's why we pour our heart and soul into every aspect of our manufacturing process, from meticulous design and precision engineering to rigorous quality control measures.</p>
+                <br></br>
+                <p>We adhere to stringent industry standards and best practices, ensuring that each product bearing the Titan Air Blower seal represents the pinnacle of engineering excellence.</p>
+               
+
+
               </div>
             </div>
           </div>
@@ -38,99 +45,7 @@ export default function Home() {
 
         <div className='w-full mb-12 md:mb-16 lg:mb-20'>
           <div className='container mx-auto px-6'>
-            <p className='text-center'>We are ISO 9001:2008 Certified and offers RIGID PVC pipes & fittings, SWR pipes & fittings, Elastomeric pipes, Underground Sewerage Pipes, CPVC & UPVC plumbing pipes & fittings, HDPE pipes & fittings, Sprinkler pipes & Fittings, Conduit pipes & fitting, MDPE pipes, Column pipes , Blue Casing Pipes Lateral, Drip Irrigation System and solvent Cement for diverse application in agriculture, housing, industries etc. We recently have launched “MIRAJ Rain water harvesting system” & “Miraj Green House Tunnel” which adds more diversification to our product portfolio.</p>
-          </div>
-        </div>
-
-        <div className='w-full mb-10 md:mb-14 lg:mb-20'>
-          <div className='container mx-auto px-6'>
-            <div className='flex flex-col md:flex-row gap-8 md:gap-12 lg:gap-16 justify-center'>
-              <div className='w-full lg:w-6/12 p-6 md:p-8 rounded-3xl shadow-md'>
-                <div className='flex flex-col justify-center'>
-                  <h2>Production Capacity - 55640 MT</h2>
-                  <p>UPVC Pipes/CPVC Pipes/SWR Pipes/Plumbing Pipes - 49866 MT</p>
-                  <p>HDPE Pipe/Sprinkler - 3942 MT</p>
-                  <p>PVC Fitting - 1832 MT</p>
-                  <p>Industrial Plastic Pipes,Rigid PVC Pipes,SWR Pipe Fittings Exporters</p>
-                </div>
-              </div>
-              <div className='w-full lg:w-6/12 p-6 md:p-8 rounded-3xl shadow-md'>
-                <div className='flex flex-col justify-center'>
-                  <h2>Product Quality</h2>
-                  <p>We give prime importance to the quality of products manufactured by us, as quality is the basic criterion that manages to give us an edge in the market. Hence, we conduct third party inspections to closely scrutinize the products delivered by us right from the procurement of the raw material to the final dispatch to the clients.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <Certificates />
-
-        <div className='w-full mb-12 md:mb-16 lg:mb-20'>
-          <div className='container mx-auto px-6 text-center'>
-            <h2>Product Quality Certificates</h2>
-            <p>We have earned the following quality certificates for our products :</p>
-            <p className='mt-7'>“IS 4985” for Potable Water in PVC Pipes</p>
-            <p>“IS 4984” for potable water in HDPE Pipes</p>
-            <p>“IS 13592” for Sewerage Pipe</p>
-            <p>“IS 14151 Part I to Part II” for Sprinkler System for Irrigation</p>
-            <p>“IS 15778 for Hot and cold Water system</p>
-            <p>“IS 9537” for Conduits for electrical installation</p>
-            <p>“IS 12786” for Lateral Pipes for Irrigation.</p>
-            <p>"IS 14333" for HDPE pipes for sewerage</p>
-          </div>
-        </div>
-
-        <div className='w-full mb-12 md:mb-16 lg:mb-20'>
-          <div className='container mx-auto px-6'>
-            <div className='flex gap-5 justify-center items-center mb-7'>
-              <Image src="/title_icon/achievements.svg" alt="" width={55.75} height={40.19} />
-              <h1 className='m-0'>Achievements</h1>
-            </div>
-            <div className='flex flex-wrap justify-center gap-8 md:gap-12 lg:gap-16 achievements_img'>
-              <div className='text-center'>
-                <Image src="/achievements/1.svg" alt="" width={188} height={240} />
-                <h3>2019</h3>
-              </div>
-              <div className='text-center'>
-                <Image src="/achievements/1.svg" alt="" width={188} height={240} />
-                <h3>2020</h3>
-              </div>
-              <div className='text-center'>
-                <Image src="/achievements/1.svg" alt="" width={188} height={240} />
-                <h3>2021</h3>
-              </div>
-              <div className='text-center'>
-                <Image src="/achievements/1.svg" alt="" width={188} height={240} />
-                <h3>2022</h3>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className='w-full mb-12 md:mb-16 lg:mb-20'>
-          <div className='container mx-auto px-6'>
-            <div className='flex gap-5 justify-center items-center mb-7'>
-              <Image src="/title_icon/achievements.svg" alt="" width={55.75} height={40.19} />
-              <h1 className='m-0'>Management Team</h1>
-            </div>
-            <div className='flex flex-wrap justify-center gap-8 md:gap-12 lg:gap-16'>
-              <div className='text-center'>
-                <Image src="/management/1.png" alt="" width={283} height={283} />
-                <h3>Mr. Kailash Chandra Agarwal</h3>
-                <p>Managing Director</p>
-              </div>
-              <div className='text-center'>
-                <Image src="/management/1.png" alt="" width={283} height={283} />
-                <h3>Mr. Kailash Chandra Agarwal</h3>
-                <p>Managing Director</p>
-              </div>
-              <div className='text-center'>
-                <Image src="/management/1.png" alt="" width={283} height={283} />
-                <h3>Mr. Kailash Chandra Agarwal</h3>
-                <p>Managing Director</p>
-              </div>
-            </div>
+            <p className='text-center'>However, our commitment to customer satisfaction doesn't end with the sale. We believe in fostering long-term partnerships built on trust, transparency, and unwavering support. Our dedicated team of professionals is always on hand to provide expert guidance, technical assistance, and prompt after-sales service, ensuring that your experience is nothing short of exceptional.</p>
           </div>
         </div>
 

@@ -4,18 +4,18 @@ import { Fragment } from 'react'
 export default function OurOffice() {
   return (
     <Fragment>
-      <h3 className='mb-2.5 mt-0'>Our Office</h3>
+      <h3 className='mb-2.5 mt-0'>Address</h3>
       <div className='flex items-center mb-2.5'>
         <Image src="/icon/address.svg" alt="" width={16} height={22} className='mr-2' />
-        <p className='fix_address_w'>Plot No-1, Mahashakti Estate, Nr., Rajlakshmi Plot, Bhavda, Ahmedabad-382433. (Gujarat) India.</p>
+        <p className='fix_address_w'>Shead No. 42/Z Shakriba Industrial Estate, B/H Indo German Tool Room, Phase 4, Vatva GIDC, Vatva, Ahmedabad, (Gujarat) India.</p>
       </div>
       <div className='flex items-center mb-2.5'>
         <Image src="/icon/phone.svg" alt="" width={17} height={17} className='mr-2' />
-        <a href="tel:+919825687734">+91 98256 87734</a>&nbsp;&nbsp;<a href="tel:+919586078607">+91 95860 78607</a>
+        <a href="tel:+91 9033318899">+91 9033318899</a>&nbsp;&nbsp;<a href="tel:+91 8866822252">+91 8866822252</a>
       </div>
       <div className='flex items-center mb-2.5'>
         <Image src="/icon/email.svg" alt="" width={18.85} height={13.25} className='mr-2' />
-        <a href="mailto:mahashaktiplast.0607@gmail.com">mahashaktiplast.0607@gmail.com</a>
+        <a href="mailto:raghuvirsinghtomar@gmail.com">raghuvirsinghtomar@gmail.com</a>
       </div>
     </Fragment>
   )

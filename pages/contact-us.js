@@ -2,15 +2,15 @@ import Head from 'next/head'
 import Header from '/components/header'
 import Footer from '/components/footer'
 import Advantages from '../components/advantages'
-import BusinessHours from '../components/business-hours'
+
 import OurOffice from '../components/our-office'
 
 export default function Home() {
   return (
     <div>
       <Head>
-        <title>Farmer Pro Pipes | Contact Us</title>
-        <meta name="description" content="Farmer Pro Pipes | Contact Us" />
+        <title>Titan Air Blowers | Contact Us</title>
+        <meta name="description" content="Titan Air Blowers | Contact Us" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -24,14 +24,12 @@ export default function Home() {
           <div className='container mx-auto px-6'>
             <div className='flex flex-col md:flex-row gap-8 md:gap-12 lg:gap-16 justify-center items-center'>
               <div className='w-full lg:w-4/12'>
-                <h1>Mahashakti Estate</h1>
+                <h1>Titan Air Blowers</h1>
                   <div className='footer'>
                     <div className='mt-10'>
                       <OurOffice />
                     </div>
-                    <div className='mt-10'>
-                      <BusinessHours />
-                    </div>
+                   
                   </div>
                 
               </div>
