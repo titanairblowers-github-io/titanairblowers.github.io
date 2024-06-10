@@ -17,7 +17,7 @@ export default function Footer() {
           </div>
         </div>
       </div>
-      <div className='footer_line py-2 text-center bg_green'>Copyright © 2024 Titan Air Blowers Ltd.</div>
+      <div className='footer_line py-2 text-center bg_green'>Copyright © 2024 Titan Air Blowers</div>
     </footer>
   )
 }

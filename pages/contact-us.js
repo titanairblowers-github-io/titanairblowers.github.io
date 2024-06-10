@@ -17,8 +17,7 @@ export default function Home() {
       <Header />
       <main>
         <div className='w-full bg-no-repeat bg-cover bg-center flex items-end page_hero page_contact'>
-        </div>
-        <Advantages /> 
+        </div> 
         <div className='w-full mb-12 md:mb-16 lg:mb-20'>
           <div className='container mx-auto px-6'>
             <div className='flex flex-col md:flex-row gap-8 md:gap-12 lg:gap-16 justify-center items-center'>
