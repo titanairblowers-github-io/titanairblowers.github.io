@@ -13,8 +13,8 @@ $fw_ExtraBold: 800;
 $color_white: #FFFFFF;
 $color_LightGray: #F8F8F8;
 $color_black: #1E2E00;
-$color_orange: #F5891B;
-$color_green: #638128;
+$color_orange: #DC1F26;
+$color_green: #C51D25;
 
 .bg_green{ background: $color_green;}
 .bg_LightGray{background: $color_LightGray;}
@@ -213,7 +213,7 @@ header{
 
     &.page_about{ background-image: url('/hero/home page 2.png');}
     &.page_product{ background-image: url('/hero/home page 3.png');}
-    &.page_contact{ background-image: url('/hero/home page 4.png');}
+    &.page_contact{ background-image: url('/contact_us.jpg');}
     &.page_menu{ background-image: url('/hero/menu.png');}
 
 

@@ -11,15 +11,15 @@ export default function Advantages() {
           </div>
           <div className='icon_card flex items-center justify-center'>
             <Image src="/icon/2.svg" alt="" width={49} height={49} />
-            <p>Impeccable <br />Support</p>
+            <p>Innovative <br />Craftsmanship</p>
           </div>
           <div className='icon_card flex items-center justify-center'>
             <Image src="/icon/3.svg" alt="" width={49} height={49} />
-            <p>State of the art team</p>
+            <p>Customization</p>
           </div>
           <div className='icon_card flex items-center justify-center'>
             <Image src="/icon/4.svg" alt="" width={49} height={49} />
-            <p>Pressure and Vacuum System</p>
+            <p>After-Sales Service</p>
           </div>
         </div>
       </div>

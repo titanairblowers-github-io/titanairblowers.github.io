@@ -7,7 +7,7 @@ export default function OurOffice() {
       <h3 className='mb-2.5 mt-0'>Address</h3>
       <div className='flex items-center mb-2.5'>
         <Image src="/icon/address.svg" alt="" width={16} height={22} className='mr-2' />
-        <p className='fix_address_w'>Shead No. 42/Z Shakriba Industrial Estate, B/H Indo German Tool Room, Phase 4, Vatva GIDC, Vatva, Ahmedabad, (Gujarat) India.</p>
+        <p className='fix_address_w'>42/Y, Shakriba Industrial Estate, B/H Indo German Tool Room, Phase 4, GIDC Vatva, Ahmedabad, (Gujarat) India</p>
       </div>
       <div className='flex items-center mb-2.5'>
         <Image src="/icon/phone.svg" alt="" width={17} height={17} className='mr-2' />

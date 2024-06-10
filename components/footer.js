@@ -8,7 +8,7 @@ export default function Footer() {
       <div className='container mx-auto px-6 py-8 lg:py-16'>
         <div className='flex flex-col md:flex-row gap-8 md:gap-12 lg:gap-16 justify-center items-center'>
           <div className='w-full lg:w-6/12'>
-            <Image src="/logo.png" alt="" width={373} height={115} className='w-12/12 md:w-auto' />
+            <Image src="/logo_with_text.svg" alt="" width={0} height={0} style={{ width: '278px', height: 'auto' }} className='w-12/12 md:w-auto' />
           </div>
           <div className='w-full lg:w-6/12'>
             <div className='flex flex-col md:flex-row gap-8 md:gap-12 lg:gap-16 justify-center'>

@@ -17,7 +17,6 @@ export default function Home() {
       <Header />
       <main>
         <div className='w-full bg-no-repeat bg-cover bg-center flex items-end page_hero page_contact'>
-          <div className='container mx-auto px-6 page_title uppercase mb-5'>Contact Us</div>
         </div>
         <Advantages /> 
         <div className='w-full mb-12 md:mb-16 lg:mb-20'>
