@@ -33,7 +33,7 @@ export default function Home() {
               </div>
               <div className='w-full lg:w-8/12'>
                 <div className='contact_map'>
-                  <iframe className='rounded-3xl card_box_shadow w-full' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.5774953140904!2d72.62594681545016!3d23.039280384944718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e8690b99a0b87%3A0x99f41a3c2ad56839!2sMahashakti%20Estate!5e0!3m2!1sen!2sin!4v1661684152876!5m2!1sen!2sin" width="600" height="450" style={{ border: 0 }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+                  <iframe className='rounded-3xl card_box_shadow w-full' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.3611191059513!2d72.6478018!3d22.973744599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e896871963c9d%3A0x6df6260d714caed5!2sTitan%20Air%20Blowers!5e0!3m2!1sen!2sin!4v1718132837605!5m2!1sen!2sin" width="600" height="450" style={{ border: 0 }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                 </div>
               </div>
             </div>

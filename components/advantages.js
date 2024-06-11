@@ -6,7 +6,7 @@ export default function Advantages() {
       <div className='container mx-auto px-6 py-6 md:py-8'>
         <div className='icon_section m-auto grid grid-cols-2 md:grid-cols-4 gap-8'>
           <div className='icon_card flex items-center justify-center'>
-            <Image src="/icon/1.svg" alt="" width={49} height={49} />
+            <Image src="/icon/1.png" alt="" width={49} height={49} />
             <p>Quality<br />Assurance</p>
           </div>
           <div className='icon_card flex items-center justify-center'>
@@ -18,7 +18,7 @@ export default function Advantages() {
             <p>Customization</p>
           </div>
           <div className='icon_card flex items-center justify-center'>
-            <Image src="/icon/4.svg" alt="" width={49} height={49} />
+            <Image src="/icon/4.png" alt="" width={49} height={49} />
             <p>After-Sales Service</p>
           </div>
         </div>

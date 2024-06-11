@@ -100,22 +100,28 @@ export default function Home() {
               </div>
               <div className="w-full lg:w-8/12 grid grid-cols-2 md:grid-cols-2 gap-4 md:gap-4 lg:gap-8 items-center">
                 <div className="text-center mx-auto">
-                  <Image src="/product/Cement Silos.jpeg" alt="" width={222} height={222} />
+                  <div className="shadow-sm border p-4">
+                    <Image src="/product/cement silo.png" alt="" width={222} height={222} />
+                  </div>
                   <h3>Cement Silos</h3>
                 </div>
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
-                    <Image src="/product/Cement Feeding System.png" alt="" width={222} height={222} />
+                    <Image src="/product/cement feeding system.png" alt="" width={222} height={222} />
                   </div>
                   <h3>Cement Feeding System</h3>
                 </div>
                 <div className="text-center mx-auto">
-                  <Image src="/product/Bulker Unloading System.jpg" alt="" width={222} height={222} />
+                  <div className="shadow-sm border p-4">
+                    <Image src="/product/bulker unloading system.png" alt="" width={222} height={222} />
+                  </div>
                   <h3>Bulker Unloading System</h3>
                 </div>
                 <div className="text-center mx-auto">
-                  <Image src="/product/Water Ring Vacuum Pumps.jpeg" alt="" width={222} height={222} />
-                  <h3>Water Ring Vacuum Pumps</h3>
+                  <div className="shadow-sm border p-4">
+                    <Image src="/product/water ring vacuum pump.png" alt="" width={222} height={222} />
+                  </div>
+                  <h3>Water Ring Vacuum Pump</h3>
                 </div>
               </div>
             </div>

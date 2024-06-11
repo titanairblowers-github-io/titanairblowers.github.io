@@ -15,7 +15,7 @@ export default function OurOffice() {
       </div>
       <div className='flex items-center mb-2.5'>
         <Image src="/icon/email.svg" alt="" width={18.85} height={13.25} className='mr-2' />
-        <a href="mailto:raghuvirsinghtomar@gmail.com">raghuvirsinghtomar@gmail.com</a>
+        <a href="mailto:Contact@titanairblowers.com">Contact@titanairblowers.com</a>
       </div>
     </Fragment>
   )
