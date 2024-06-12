@@ -24,7 +24,7 @@ export default function Home() {
         <Advantages />
         <div className="w-full mb-12 md:mb-16 lg:mb-20">
           <div className="container mx-auto px-6">
-            <div className="flex flex-col md:flex-row gap-8 md:gap-12 lg:gap-16 justify-center items-center">
+            <div className="flex flex-col md:flex-row gap-8 md:gap-12 lg:gap-16 justify-center">
               <div className="w-full lg:w-6/12">
                 <Image
                   src="/about_us.jpeg"
