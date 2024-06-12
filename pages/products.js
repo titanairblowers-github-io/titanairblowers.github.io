@@ -76,7 +76,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row justify-center items-center mx-auto">
               <div className="w-full md:w-6/12 lg:w-5/12 xl:w-4/12 flex justify-center p-6 md:p-8 order-last md:order-none">
                 <Image
-                  src="/product/cement feeding system.png"
+                  src="/product/cement_feeding_system.png"
                   alt=""
                   width={531}
                   height={321}

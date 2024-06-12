@@ -107,7 +107,7 @@ export default function Home() {
                 </div>
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
-                    <Image src="/product/cement feeding system.png" alt="" width={222} height={222} />
+                    <Image src="/product/cement_feeding_system.png" alt="" width={222} height={222} />
                   </div>
                   <h3>Cement Feeding System</h3>
                 </div>
