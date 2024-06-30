@@ -98,7 +98,7 @@ export default function Home() {
                   <button className="btn">See Our Products</button>
                 </Link>
               </div>
-              <div className="w-full lg:w-8/12 grid grid-cols-2 md:grid-cols-2 gap-4 md:gap-4 lg:gap-8 items-center">
+              <div className="w-full lg:w-8/12 grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-4 lg:gap-8 items-center">
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
                     <Image src="/images/product/cement silo.png" alt="" width={222} height={222} style={{width: "300px", height: "200px"}} />
