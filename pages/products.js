@@ -143,6 +143,25 @@ export default function Home() {
             </div>
           </div>
         </div>
+        <div className="w-full mb-12 md:mb-16 lg:mb-20">
+          <div className="container mx-auto px-6">
+            <div className="flex flex-col md:flex-row justify-center items-center mx-auto">
+              <div className="w-full md:w-6/12 lg:w-6/12 xl:w-5/12 bg_LightGray p-6 md:p-8 lg:p-16 rounded-3xl">
+                <h2>6. Tri Lobe Roots Blower</h2>
+                <p>It is commonly used for applications requiring the movement of large volumes of gas or air at relatively low-pressure differentials. These lobes are designed to rotate in synchrony without contacting each other or the housing, thereby minimizing internal leakage and reducing energy losses.</p>
+              </div>
+              <div className="w-full md:w-6/12 lg:w-5/12 xl:w-4/12 flex justify-center p-6 md:p-8">
+                <Image
+                  src="/product/tri lobe roots blower.png"
+                  alt=""
+                  width={531}
+                  height={321}
+                  className="rounded-3xl w-full"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
       </main>
       <Footer />
     </div>

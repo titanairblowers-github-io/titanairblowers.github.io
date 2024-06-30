@@ -68,7 +68,7 @@ export default function Home() {
                 <div className="flex flex-col justify-center">
                   <h2>Vision</h2>
                   <p>
-                  Our vision is to excel as the foremost provider of air handling equipment, distinguished by precision machining, superior materials and spare parts, and seamless services. We aim to be unparalleled leaders in both domestic and international markets.
+                  We aim to be an unparalleled leader in both domestic and international markets as the foremost provider of pneumatic conveying system.
                   </p>
                 </div>
               </div>
@@ -76,7 +76,7 @@ export default function Home() {
                 <div className="flex flex-col justify-center">
                   <h2>Mission</h2>
                   <p>
-                  At Titan Air Blowers, we are dedicated to engineering excellence, delivering innovative solutions for air handling needs. Through relentless focus on precision manufacturing, superior material sourcing, and exceptional customer service, we strive to exceed expectations, ensuring sustainable growth and enduring partnerships worldwide.
+                  We are dedicated to engineering excellence, delivering innovative solutions for air handling needs. Through relentless focus on precision manufacturing, superior material sourcing, and exceptional customer service, we strive to exceed expectations, ensuring sustainable growth and enduring partnerships worldwide.
                   </p>
                 </div>
               </div>
@@ -119,9 +119,9 @@ export default function Home() {
                 </div>
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
-                    <Image src="/product/water ring vacuum pump.png" alt="" width={222} height={222} />
+                    <Image src="/product/twin lobe roots blower.png" alt="" width={222} height={222} />
                   </div>
-                  <h3>Water Ring Vacuum Pump</h3>
+                  <h3>Twin Lobe Roots Blower</h3>
                 </div>
               </div>
             </div>

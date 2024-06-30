@@ -4,10 +4,10 @@ import { Fragment } from 'react'
 export default function OurOffice() {
   return (
     <Fragment>
-      <h3 className='mb-2.5 mt-0'>Address</h3>
+      <h3 className='mb-2.5 mt-0'>Get in Touch with us!</h3>
       <div className='flex items-center mb-2.5'>
         <Image src="/icon/address.svg" alt="" width={16} height={22} className='mr-2' />
-        <p className='fix_address_w'>42/Y, Shakriba Industrial Estate, B/H Indo German Tool Room, Phase 4, GIDC Vatva, Ahmedabad, (Gujarat) India</p>
+        <p className='fix_address_w'>42/Y, Shakriba Industrial Estate, B/H Indo German Tool Room, Phase 4, GIDC Vatva, Ahmedabad, (Gujarat) India - 382445.</p>
       </div>
       <div className='flex items-center mb-2.5'>
         <Image src="/icon/phone.svg" alt="" width={17} height={17} className='mr-2' />

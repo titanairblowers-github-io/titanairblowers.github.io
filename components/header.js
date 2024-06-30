@@ -9,9 +9,9 @@ export default function Header() {
     <header className='w-full'>
       <div className='container mx-auto px-6 pt-2'>
         <div className='flex lg:flex-row justify-between items-center'>
-          <div className='lg:w-4/12 z-10'>
+          <Link href="/" className='lg:w-4/12 z-10'>
             <Image src="/logo.svg" alt="" width={0} height={0} style={{ width: 'auto', height: '82px' }} />
-          </div>
+          </Link>
           <div className='lg:w-8/12 text-right hidden lg:block'>
             <ul>
               <li><Link href="/" className={router.pathname == "/" ? "active" : ""}>Home</Link></li>
