@@ -22,7 +22,7 @@ export default function Header() {
           </div>
           <Popover className="lg:hidden">
             <Popover.Button className="relative z-10 [&:not(:focus-visible)]:focus:outline-none p-3">
-              <Image src="/images/menu.svg" alt="Titan" width={25} height={20} style={{width: "auto", height: "auto"}} />
+              <Image src="/images/menu.svg" alt="Titan" width={25} height={20} />
             </Popover.Button>
             <Popover.Overlay className="fixed inset-0 z-0 bg-gray-300/60 backdrop-blur" />
             <Popover.Panel className="absolute inset-x-0 top-0 z-0 origin-top bg-white pt-32 pb-10">

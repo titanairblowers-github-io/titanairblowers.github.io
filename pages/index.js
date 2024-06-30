@@ -101,25 +101,25 @@ export default function Home() {
               <div className="w-full lg:w-8/12 grid grid-cols-2 md:grid-cols-2 gap-4 md:gap-4 lg:gap-8 items-center">
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
-                    <Image src="/images/product/cement silo.png" alt="" width={222} height={222} style={{width: "auto", height: "auto"}} />
+                    <Image src="/images/product/cement silo.png" alt="" width={222} height={222} style={{width: "300px", height: "200px"}} />
                   </div>
                   <h3>Cement Silos</h3>
                 </div>
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
-                    <Image src="/images/product/cement_feeding_system.png" alt="" width={222} height={222} style={{width: "auto", height: "auto"}} />
+                    <Image src="/images/product/cement_feeding_system.png" alt="" width={222} height={222} style={{width: "300px", height: "200px"}} />
                   </div>
                   <h3>Cement Feeding System</h3>
                 </div>
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
-                    <Image src="/images/product/bulker unloading system.png" alt="" width={222} height={222} style={{width: "auto", height: "auto"}} />
+                    <Image src="/images/product/bulker unloading system.png" alt="" width={222} height={222} style={{width: "300px", height: "200px"}} />
                   </div>
                   <h3>Bulker Unloading System</h3>
                 </div>
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
-                    <Image src="/images/product/twin lobe roots blower.png" alt="" width={222} height={222} style={{width: "auto", height: "auto"}} />
+                    <Image src="/images/product/twin lobe roots blower.png" alt="" width={222} height={222} style={{width: "300px", height: "200px"}} />
                   </div>
                   <h3>Twin Lobe Roots Blower</h3>
                 </div>

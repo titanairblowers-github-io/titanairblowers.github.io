@@ -31,6 +31,7 @@ export default function Home() {
                   width={531}
                   height={321}
                   className="rounded-3xl w-full"
+                  style={{width: "350px", height: "250px"}}
                 />
               </div>
               <div className="w-full md:w-6/12 lg:w-6/12 xl:w-5/12 bg_LightGray p-6 md:p-8 lg:p-16 rounded-3xl">
@@ -66,6 +67,7 @@ export default function Home() {
                   width={531}
                   height={321}
                   className="rounded-3xl w-full"
+                  style={{width: "350px", height: "250px"}}
                 />
               </div>
             </div>
@@ -81,6 +83,7 @@ export default function Home() {
                   width={531}
                   height={321}
                   className="rounded-3xl w-full"
+                  style={{width: "350px", height: "250px"}}
                 />
               </div>
               <div className="w-full md:w-6/12 lg:w-6/12 xl:w-5/12 bg_LightGray p-6 md:p-8 lg:p-16 rounded-3xl">
@@ -114,6 +117,7 @@ export default function Home() {
                   width={531}
                   height={321}
                   className="rounded-3xl w-full"
+                  style={{width: "350px", height: "250px"}}
                 />
               </div>
             </div>
@@ -129,6 +133,7 @@ export default function Home() {
                   width={531}
                   height={321}
                   className="rounded-3xl w-full"
+                  style={{width: "350px", height: "250px"}}
                 />
               </div>
               <div className="w-full md:w-6/12 lg:w-6/12 xl:w-5/12 bg_LightGray p-6 md:p-8 lg:p-16 rounded-3xl">
@@ -157,6 +162,7 @@ export default function Home() {
                   width={531}
                   height={321}
                   className="rounded-3xl w-full"
+                  style={{width: "350px", height: "250px"}}
                 />
               </div>
             </div>
