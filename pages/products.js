@@ -26,7 +26,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row justify-center items-center mx-auto">
               <div className="w-full md:w-6/12 lg:w-5/12 xl:w-4/12 flex justify-center p-6 md:p-8 order-last md:order-none">
                 <Image
-                  src="/product/twin lobe roots blower.png"
+                  src="/images/product/twin lobe roots blower.png"
                   alt=""
                   width={531}
                   height={321}
@@ -61,7 +61,7 @@ export default function Home() {
               </div>
               <div className="w-full md:w-6/12 lg:w-5/12 xl:w-4/12 flex justify-center p-6 md:p-8">
                 <Image
-                  src="/product/bulker unloading system.png"
+                  src="/images/product/bulker unloading system.png"
                   alt=""
                   width={531}
                   height={321}
@@ -76,7 +76,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row justify-center items-center mx-auto">
               <div className="w-full md:w-6/12 lg:w-5/12 xl:w-4/12 flex justify-center p-6 md:p-8 order-last md:order-none">
                 <Image
-                  src="/product/cement_feeding_system.png"
+                  src="/images/product/cement_feeding_system.png"
                   alt=""
                   width={531}
                   height={321}
@@ -109,7 +109,7 @@ export default function Home() {
               </div>
               <div className="w-full md:w-6/12 lg:w-5/12 xl:w-4/12 flex justify-center p-6 md:p-8">
                 <Image
-                  src="/product/cement silo.png"
+                  src="/images/product/cement silo.png"
                   alt=""
                   width={531}
                   height={321}
@@ -124,7 +124,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row justify-center items-center mx-auto">
               <div className="w-full md:w-6/12 lg:w-5/12 xl:w-4/12 flex justify-center p-6 md:p-8 order-last md:order-none">
                 <Image
-                  src="/product/water ring vacuum pump.png"
+                  src="/images/product/water ring vacuum pump.png"
                   alt=""
                   width={531}
                   height={321}
@@ -152,7 +152,7 @@ export default function Home() {
               </div>
               <div className="w-full md:w-6/12 lg:w-5/12 xl:w-4/12 flex justify-center p-6 md:p-8">
                 <Image
-                  src="/product/tri lobe roots blower.png"
+                  src="/images/product/tri lobe roots blower.png"
                   alt=""
                   width={531}
                   height={321}

@@ -166,7 +166,7 @@ header{
 }
 
 .home_hero{
-    background-image: url('/hero/hero_home.jpg');
+    background-image: url('/images/hero/hero_home.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -211,10 +211,10 @@ header{
         @media screen and (max-width: 640px) { font-size: 40px; text-align: center;}
     }
 
-    &.page_about{ background-image: url('/hero/about_us.jpeg');}
-    &.page_product{ background-image: url('/hero/products.jpeg');}
-    &.page_contact{ background-image: url('/hero/contact_us.jpeg');}
-    &.page_menu{ background-image: url('/hero/menu.png');}
+    &.page_about{ background-image: url('/images/hero/about_us.jpeg');}
+    &.page_product{ background-image: url('/images/hero/products.jpeg');}
+    &.page_contact{ background-image: url('/images/hero/contact_us.jpeg');}
+    &.page_menu{ background-image: url('/images/hero/menu.png');}
 
 
     @media screen and (max-width: 640px) { min-height: 200px; }
@@ -253,11 +253,11 @@ header{
 
 
 .card_vision{
-    background: url('/vision.svg') no-repeat;
+    background: url('/images/vision.svg') no-repeat;
     background-position: top 20px right 20px;
 }
 .card_mission{
-    background: url('/mission.svg') no-repeat;
+    background: url('/images/mission.svg') no-repeat;
     background-position: top 20px right 20px;
 }
 

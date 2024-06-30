@@ -41,7 +41,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row gap-8 md:gap-12 lg:gap-16 justify-center items-center">
               <div className="w-full lg:w-6/12">
                 <Image
-                  src="/about_us.jpeg"
+                  src="/images/about_us.jpeg"
                   alt=""
                   width={630}
                   height={396}
@@ -101,25 +101,25 @@ export default function Home() {
               <div className="w-full lg:w-8/12 grid grid-cols-2 md:grid-cols-2 gap-4 md:gap-4 lg:gap-8 items-center">
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
-                    <Image src="/product/cement silo.png" alt="" width={222} height={222} />
+                    <Image src="/images/product/cement silo.png" alt="" width={222} height={222} style={{width: "auto", height: "auto"}} />
                   </div>
                   <h3>Cement Silos</h3>
                 </div>
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
-                    <Image src="/product/cement_feeding_system.png" alt="" width={222} height={222} />
+                    <Image src="/images/product/cement_feeding_system.png" alt="" width={222} height={222} style={{width: "auto", height: "auto"}} />
                   </div>
                   <h3>Cement Feeding System</h3>
                 </div>
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
-                    <Image src="/product/bulker unloading system.png" alt="" width={222} height={222} />
+                    <Image src="/images/product/bulker unloading system.png" alt="" width={222} height={222} style={{width: "auto", height: "auto"}} />
                   </div>
                   <h3>Bulker Unloading System</h3>
                 </div>
                 <div className="text-center mx-auto">
                   <div className="shadow-sm border p-4">
-                    <Image src="/product/twin lobe roots blower.png" alt="" width={222} height={222} />
+                    <Image src="/images/product/twin lobe roots blower.png" alt="" width={222} height={222} style={{width: "auto", height: "auto"}} />
                   </div>
                   <h3>Twin Lobe Roots Blower</h3>
                 </div>

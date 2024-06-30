@@ -10,7 +10,7 @@ export default function Header() {
       <div className='container mx-auto px-6 pt-2'>
         <div className='flex lg:flex-row justify-between items-center'>
           <Link href="/" className='lg:w-4/12 z-10'>
-            <Image src="/logo.svg" alt="" width={0} height={0} style={{ width: 'auto', height: '82px' }} />
+            <Image src="/images/logo.svg" alt="" width={0} height={0} style={{ width: 'auto', height: '82px' }} />
           </Link>
           <div className='lg:w-8/12 text-right hidden lg:block'>
             <ul>
@@ -22,7 +22,7 @@ export default function Header() {
           </div>
           <Popover className="lg:hidden">
             <Popover.Button className="relative z-10 [&:not(:focus-visible)]:focus:outline-none p-3">
-              <Image src="/menu.svg" alt="Titan" width={25} height={20} />
+              <Image src="/images/menu.svg" alt="Titan" width={25} height={20} style={{width: "auto", height: "auto"}} />
             </Popover.Button>
             <Popover.Overlay className="fixed inset-0 z-0 bg-gray-300/60 backdrop-blur" />
             <Popover.Panel className="absolute inset-x-0 top-0 z-0 origin-top bg-white pt-32 pb-10">

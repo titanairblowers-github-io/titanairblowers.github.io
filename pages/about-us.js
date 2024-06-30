@@ -27,7 +27,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row gap-8 md:gap-12 lg:gap-16 justify-center">
               <div className="w-full lg:w-6/12">
                 <Image
-                  src="/about_us.jpeg"
+                  src="/images/about_us.jpeg"
                   alt=""
                   width={630}
                   height={396}
